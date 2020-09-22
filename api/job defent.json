@@ -1,0 +1,51 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 6,
+  "data": [
+    {
+      "id": 1,
+      "business name": "北京柯蓝科技有限公司",
+      "hiring manager": "刘海海",
+      "school manager":"张三",
+      "time": "2019-05-26",
+      "place": "科技楼11层1"
+    },{
+      "id": 2,
+      "business name": "北京思特奇股份有限公司",
+      "hiring manager": "刘海",
+      "school manager":"李四",
+      "time": "2019-05-26",
+      "place": "科技楼10层1"
+    },{
+      "id": 3,
+      "business name": "大连华宇科技有限公司",
+      "hiring manager": "刘四",
+      "school manager":"王五",
+      "time": "2019-05-26",
+      "place": "科技楼11层1"
+    },{
+      "id": 4,
+      "business name": "成都银海软件科技有限公司",
+      "hiring manager": "刘小花",
+      "school manager":"张三",
+      "time": "2019-05-26",
+      "place": "科技楼11层1"
+    },{
+      "id": 5,
+      "business name": "山东国子科技有限公司",
+      "hiring manager": "李四",
+      "school manager":"张三",
+      "time": "2019-05-26",
+      "place": "科技楼11层1"
+    },{
+      "id": 6,
+      "business name": "山东国子科技有限公司",
+      "hiring manager": "李广",
+      "school manager":"张三",
+      "time": "2019-05-26",
+      "place": "科技楼11层1"
+    }
+  ]
+
+}

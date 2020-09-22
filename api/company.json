@@ -1,0 +1,63 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 6,
+  "data": [
+    {
+      "id": 1,
+      "business name": "北京柯蓝科技有限公司",
+      "headquarters city": "北京",
+      "industry": "计算机金融",
+      "hiring manager": "刘海海",
+      "telephone":"15012312312",
+      "cooperating state": "合作中",
+      "positions": "Java开发"
+    },{
+      "id": 2,
+      "business name": "北京思特奇股份有限公司",
+      "headquarters city": "北京",
+      "industry": "通信行业",
+      "hiring manager": "刘下下",
+      "telephone":"15012312312",
+      "cooperating state": "合作中",
+      "positions": "Java开发"
+    },{
+      "id": 3,
+      "business name": "大连华宇科技有限公司",
+      "headquarters city": "大连",
+      "industry": "通信行业",
+      "hiring manager": "刘下下",
+      "telephone":"15012312312",
+      "cooperating state": "合作中",
+      "positions": "Java开发"
+    },{
+      "id": 4,
+      "business name": "成都银海软件科技有限公司",
+      "headquarters city": "成都",
+      "industry": "金融行业",
+      "hiring manager": "刘下下",
+      "telephone":"15012312312",
+      "cooperating state": "合作中",
+      "positions": "Java开发"
+    },{
+      "id": 5,
+      "business name": "山东国子科技有限公司",
+      "headquarters city": "北京",
+      "industry": "物联网",
+      "hiring manager": "刘下下",
+      "telephone":"15012312312",
+      "cooperating state": "合作中",
+      "positions": "Java开发"
+    },{
+      "id": 6,
+      "business name": "山东国子科技有限公司",
+      "headquarters city": "北京",
+      "industry": "物联网",
+      "hiring manager": "刘下下",
+      "telephone":"15012312312",
+      "cooperating state": "合作中",
+      "positions": "Java开发"
+    }
+  ]
+
+}

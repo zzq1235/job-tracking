@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 6,
+  "data": [
+        {
+          "serial number": 1,
+          "student id": 100201,
+          "full name": "张三",
+          "sex": "男",
+          "birthday": "1997-11-7",
+          "native place":"山西太原",
+          "QQ number": 45678909,
+          "contact information": 123445678912,
+          "employment":"是",
+          "remarks": "无"
+
+        },
+        {
+          "serial number": 2,
+          "student id": 100201,
+          "full name": "张三",
+          "sex": "男",
+          "birthday": "1997-11-7",
+          "native place":"山西太原",
+          "QQ number": 45678909,
+          "contact information": 123445678912,
+          "employment":"是",
+          "remarks": "无"
+
+        },{
+          "serial number": 3,
+          "student id": 100201,
+          "full name": "张三",
+          "sex": "男",
+          "birthday": "1997-11-7",
+          "native place":"山西太原",
+          "QQ number": 45678909,
+          "contact information": 123445678912,
+          "employment":"是",
+          "remarks": "无"
+
+        },{
+          "serial number": 4,
+          "student id": 100201,
+          "full name": "张三",
+          "sex": "男",
+          "birthday": "1997-11-7",
+          "native place":"山西太原",
+          "QQ number": 45678909,
+          "contact information": 123445678912,
+          "employment":"是",
+          "remarks": "无"
+
+        },{
+          "serial number": 5,
+          "student id": 100201,
+          "full name": "张三",
+          "sex": "男",
+          "birthday": "1997-11-7",
+          "native place":"山西太原",
+          "QQ number": 45678909,
+          "contact information": 123445678912,
+          "employment":"是",
+          "remarks": "无"
+
+        },
+    {
+      "serial number": 6,
+      "student id": 100201,
+      "full name": "张三",
+      "sex": "男",
+      "birthday": "1997-11-7",
+      "native place": "山西太原",
+      "QQ number": 45678909,
+      "contact information": 123445678912,
+      "employment": "是",
+      "remarks": "无"
+    }
+  ]
+
+}
